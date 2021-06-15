@@ -14,6 +14,7 @@
 #include <uhdlib/usrp/cores/rx_dsp_core_3000.hpp>
 #include <boost/assign/list_of.hpp>
 #include <boost/math/special_functions/round.hpp>
+#include <boost/math/special_functions/sign.hpp>
 #include <algorithm>
 #include <cmath>
 #include <functional>
